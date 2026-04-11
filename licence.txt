@@ -1,4 +1,4 @@
-# Danh sach ID cho phep chay v6.03
+# Danh sach ID cho phep chay iron man 
 26573607|2026.12.31|VTMarkets-Live 3
 26850134|2026.12.31|VTMarkets-Live 3
 27202163|2026.12.31|VTMarkets-Live 3
